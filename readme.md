@@ -1,9 +1,9 @@
 
-# Wallet Containers
+# Universal Wallet Backup Containers
 
 ## Background
 
-Wallet Containers is a [work item](https://github.com/decentralized-identity/claims-credentials/blob/main/work_items/trust_establishment.md) as part of the [Wallet Security Working Group](https://github.com/decentralized-identity/wallet-security).
+Universal Wallet Backup Containers is a work tiem as part of the [Wallet Security Working Group](https://github.com/decentralized-identity/wallet-security).
 
 ## Overview
 
