@@ -1,6 +1,8 @@
 
 # Universal Wallet Backup Containers
 
+## ⚡We are currently conducting a Doodle Poll for times to start in ernest in January - please vote [here](https://doodle.com/meeting/organize/id/bWLNyxJd) ⚡
+
 ## Background
 
 Universal Wallet Backup Containers is a [work item](https://github.com/decentralized-identity/wallet-security/blob/main/work_items/universal_wallet_backup_containers.md) as part of the [Wallet Security Working Group](https://github.com/decentralized-identity/wallet-security).
