@@ -1,11 +1,11 @@
 ![](https://i.imgur.com/KKoEBBx.png) 
-# DIF APAC Regional SIG (2023)
+# DIF Wallet Security WG - Universal Wallet Backup Containers Work Item Agenda
 
 
-## :triangular_flag_on_post: January Meeting
+## :triangular_flag_on_post: February Meeting
 
 :::success
-This call is a collaborative effort between DIF and ToIP Comminities and interested parties invovled with Decentralized Identity in the Asia Pacific region   
+This call is an IPR call for work assocaited with DIF's Wallet Security Work Group - please sign hte workgroup charter prior to participation 
 :::
 
 ## 💬 Agenda Items
