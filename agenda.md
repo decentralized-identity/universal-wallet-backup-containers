@@ -4,13 +4,13 @@
 
 ## :triangular_flag_on_post: February Meeting
 
-:::success
+:::note
 This call is an IPR call for work assocaited with DIF's Wallet Security Work Group - please sign hte workgroup charter prior to participation 
 :::
 
 ## 💬 Agenda Items
 
-:::success
+:::note
 List the agenda items to discuss in this meeting.
 :::
 
@@ -23,7 +23,7 @@ List the agenda items to discuss in this meeting.
 
 ## :heavy_check_mark: Other Discussion
 
-:::success
+:::note
 Discuss other things that are not on the schedule.
 :::
 
